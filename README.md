@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekaterinamarinova
 - 👀 I’m interested in backend development and IoT
-- 🌱 I’m currently learning Kotlin and Rust
+- 🌱 I’m currently learning Zig
 - 📫 You can reach me @ ekaterina.marinova34@gmail.com
 
 <!---
